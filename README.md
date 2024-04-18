@@ -1,0 +1,1 @@
+This software project helps people to authenticate a new drug formulation by utilising the physicochemical parameters did through laboratory help and compare the parameters with the in house specification provided in the ayruvedic Pharmacopoie of India
